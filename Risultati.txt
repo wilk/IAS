@@ -1,0 +1,10 @@
+Mario Rossi 1000
+Giovanni Bianchi 900
+Luigi Neri 800
+Claudio Rossi 700
+Vincenzo Rossi 600
+Marco Bianchi 500
+Luca Bianchi 400
+Giorgio Rossi 300
+Fausto Neri 200
+Julian Neri 100
